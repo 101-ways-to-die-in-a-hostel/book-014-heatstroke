@@ -11,7 +11,7 @@
   },
   "tagline": "Some hostels are a bargain. Others cost you your life.",
   "synopsis": {
-    "short": "",
+    "short": "A hardcore ultra-marathoner dies of hyperthermia in a hostel with no air conditioning during a record heat wave, his elite athlete's confidence becoming the very thing that kills him.",
     "long": ""
   },
   "death_type": "Heatstroke",
@@ -29,5 +29,6 @@
     "google_play": "",
     "audible": "",
     "kobo": ""
-  }
+  },
+  "death_teaser": "His body was a temple. The heat made it a crematorium."
 }
